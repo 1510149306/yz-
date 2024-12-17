@@ -1,12 +1,12 @@
-宵哥高清电视，#green#
+宵哥高清电视，#绿色的#
 FTV，http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/301817.m3u8
-马齐克，https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-闪回，https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-嘻哈，https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-地中海，https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+马齐克， https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+闪回， https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+嘻哈， https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+地中海， https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
 MOBA，https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-流行歌手，https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-摇滚乐，https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+流行歌手， https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+摇滚乐， https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 WWM，https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 
 芒果剧场，#类型#
@@ -18,4 +18,132 @@ WWM，https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 芒果TV6，http://zby.xjqxz.top/gzdsj3/live.m3u8
 芒果TV7，http://zby.xjqxz.top/gzdsj4/live.m3u8
 芒果电视8，http://zby.xjqxz.top/gzdsj5/live.m3u8
-芒果9号电视，http://zby.xjqxz.top/kzzy
+芒果9号电视， http://zby.xjqxz.top/kzzy
+
+韩国
+
+🎶 뿅뿅 지구오락실 댄스 모음 ,https://dcqm3yrmhgffm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kl2somy43z7lq-ssai-prd/afb160a1_1669_46f6_aba5_e55f48c7b2ca/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200017JQ
+
+📁 뿅뿅 지구오락실 게임 모음 ,https://d2hzd84ca9i22o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccmcyhv2wdcxb-ssai-prd/eaa13423_ab8c_4fde_9fc7_5268a971ff22/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200018FU
+
+
+MBC 그녀는 예뻤다 ,https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+
+
+JTBC,https://dcvuq39z8e7yl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3xi1mq5v8z9kb/FC00000015.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+
+
+MBC,https://d33jr5ezct2aqw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-doq9g5envaarv-prod/Channel_MBC_3.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+
+
+SBS 순옥명작관,https://d1ye6lj5le5dh0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ert8sa2q2i3fz-prod/hls-harvester2-1293-prod/us-east-1/cc-ert8sa2q2i3fz/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+
+
+tvN 비밀의 숲,https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/080e7b54_ab07_49c8_b8e3_8811cf63fde2/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200031KO
+
+
+KBS 1TV,http://202.60.106.14:21585/200/playlist.m3u8
+
+KBS 2TV,http://mytv.dothome.co.kr/ch/public/3.php
+
+KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
+
+Joy,http://mytv.dothome.co.kr/ch/catv/3.php
+
+KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php
+
+KBS Life,http://mytv.dothome.co.kr/ch/catv/5.php
+
+LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+
+Story,http://mytv.dothome.co.kr/ch/catv/4.php
+
+World,http://mytv.dothome.co.kr/ch/catv/7.php
+
+EBS 1TV,https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+EBS 2TV,https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+EBS English,https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+EBS Kids,https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+EBS Plus 1,https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+
+EBS Plus 2,https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+ABN,https://vod2.abn.co.kr/IPHONE/abn.m3u8
+
+Arirang TV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+Arirang UN,https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+
+Arirang Radio,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+BBS TV,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
+BTN TV,https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+CGNTV South Korea,https://cgntvliveweb-998.acs.wecandeo.com/ms/2850/998/index.m3u8
+
+CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+
+CJ OnStyle+,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+
+CTS TV,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+
+FGTV,https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+
+GCN,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+
+Gongyoung Home Shopping,https://etv.publichs.com/live5.stream/playlist.m3u8
+
+GS My Shop,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+
+GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+
+Home & Shopping,https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+
+Hyundai Home Shopping,https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+
+Hyundai Home Shopping + Shop,https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+
+Jobplus TV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+
+KCTV,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+
+KTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+
+Lotte Home Shopping,https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+
+MBC Every1,https://ythls.armelin.one/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
+
+NBS,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+
+NHTV,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+
+NS Home Shopping,https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
+
+NS Shop+,https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+
+OUN,https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+
+RUTC TV,http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+
+SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+SEN TV,https://ythls.armelin.one/channel/UC3p-0EWA8OXko2EUDUXAy5w.m3u8
+
+Shinsegae TV Shopping,https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+
+Shopping NT,https://live.shoppingntmall.com/live/10011.m3u8
+
+TBS TV,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+
+
+WBC TV,https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+
+W购物，https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
