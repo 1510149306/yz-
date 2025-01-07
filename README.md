@@ -1,75 +1,53 @@
-<header>
+##📺  电视盒多仓源宵哥哥LIVE直播源
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+###📖 说明
+所有播放源均收集于互联网🌐，仅供**测试研究使用**，不得**商用**。
 
-# Introduction to GitHub
+##LIVE直播源
 
-_Get started using GitHub in less than an hour._
+|名称|地址|类型|
+| ------------ | ------------ | ------------ |
+|[5i眺通行·眺玩公社](https://live.5iclub.cloudns.org "乐玩公社")|https://live.5iclub.cloudns.org/IPTV.m3u|IPv6|
+|[范明明](https://github.com/fanmingming/live "范明明")|https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u|IPv6|
+|[苏簧](https://github.com/suxuang/myIPTV "素霜")|https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u|IPv4/IPv6|
+|[YangG-1989](https://yang-1989.eu.org "YangG-1989")|https://tv.iill.top/m3u/Gather|IPv4/IPv6|
+|[AKTV](https://www.mytvsuper.com.mp "AKTV")|https://www.mytvsuper.com.mp//m3u/Live.m3u|IPv4/IPv6|
+|[kakaxi-1](https://github.com/kakaxi-1/IPTV "kakaxi-1")|https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv6.m3u|IPv6|
+|[vbskycn/iptv](https://github.com/vbskycn/iptv "vbskycn")|https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.m3u|IPv6|
+|[元zl77](https://github.com/yuanzl77/IPTV "yuanzl77")|https://raw.githubusercontent.com/yuanzl77/IPTV/raw/main/live.m3u|IPv4/IPv6|
+|[拉里费耶](https://github.com/lalifeier/IPTV "lalifier")|https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/IPTV.m3u|IPv4/IPv6|
+|[kimwang1978](https://github.com/kimwang1978/collect-tv-txt "kimwang1978")|https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/live.m3u|IPv4/IPv6|
 
-</header>
+##TVbox源
+|名称|地址|类型|
+| ------------ | ------------ | ------------ |
+|[🍊橙宝宝.US.KG]|[https://iTaoPu.5iclub.cloudns.biz/iCloud/STAGE/Orange.json](https://iTaoPu.5iclub.cloudns.biz/iCloud/STAGE/Orange.json)|源|
+|[🍙  饭太硬.网]|[http://www. 饭太硬.网络/电视](http://www.饭太硬.网络/电视)|源|
+|[🦸‍♀️   Xiaomi.小暴脾气.乐趣]|[http://mpanso.me/DEMO.json](http://mpanso.me/DEMO.json)|源|
+|[🐈肥猫.com]|[(http://肥猫.com)](HTTP://肥猫.com)|源|
+|[🔞  纯一骚零.顶端]|[https://100km.top/0](https://100km.top/0)|源|
+|[🥑  菜妮丝.顶端]|[https://tv. 菜妮丝.顶端](https://tv.菜妮丝.顶端)|源|
+|[🏓巧技.com]|[http://cdn.qiaoji8.com/tvbox.json](http://cdn.qiaoji8.com/tvbox.json)|源|
+|[🐮王二小放牛娃。XYZ]|[http://tvbox. 王二小放牛娃。顶端](http://tvbox.王二小放牛娃。顶端)|源|
+|[🐟  摸鱼儿.顶端]|[HTTP://我不是.摸鱼儿.顶端](HTTP://我不是.摸鱼儿.顶端)|源|
+|[🦉吃猫的鱼.dev]|[https://d.kstore.dev/download/7213/ 吃猫的鱼](https://d.kstore.dev/download/7213/ 吃猫的鱼)|源|
+|[🍁  莺歌.顶端]|[https://tv.nxog.top/m](tv.nxog.top/m)|源|
+|[🍺蛤皮牛爷.IO]|[https://cyao2q.github.io/files/n.json](https://cyao2q.github.io/files/n.json)|源|
+|[🐱喵呜君。git]|[https://raw.githubusercontent.com/anaer/Meow/main/meow.json](https://raw.githubusercontent.com/anaer/Meow/main/meow.json)|源|
+|[🍋南风微笑.git]|[https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json](https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json)|源|
+|[🧿纳梅根良.git]|[https://tvbox.catvod.com/catvod.json](https://tvbox.catvod.com/catvod.json)|源|
+|[🐷猪猪LLR.IP]|[https://175.178.251.183:6689/tv.txt](https://175.178.251.183:6689/tv.txt)|源|
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 
-## Step 1: Create a branch
+<p>
+<imgalt="GitHub回购星"src="https://img.shields.io/github/stars/YuWell-Loong/iCloud">
+<imgalt="GitHub分叉"src="https://img.shields.io/github/forks/YuWell-Loong/iCloud">
+<imgalt="GitHub问题"src="https://img.shields.io/github/issues/YuWell-Loong/iCloud">
+<imgalt="GitHub观察者"src="https://img.shields.io/github/watchers/YuWell-Loong/iCloudE">
+<imgalt="GitHub参与者"src="https://img.shields.io/github/contributors/YuWell-Loong/iCloud">
+<imgalt="GitHub"src="https://img.shields.io/github/license/YuWell-Loong/iCloud">
+</p>
 
-_Welcome to "Introduction to GitHub"! :wave:_
-
-**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
-<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
-
-**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
-
-**What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
-
-Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
-
-**What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
-
-![profile-readme-example](/images/profile-readme-example.png)
-
-### :keyboard: Activity: Your first branch
-
-1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **< > Code** tab in the header menu of your repository.
-
-   ![code-tab](/images/code-tab.png)
-
-3. Click on the **main** branch drop-down.
-
-   ![main-branch-dropdown](/images/main-branch-dropdown.png)
-
-4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
-5. Click **Create branch: my-first-branch** to create your branch.
-
-   ![create-branch-button](/images/create-branch-button.png)
-
-   The branch will automatically switch to the one you have just created.
-   The **main** branch drop-down bar will reflect your new branch and display the new branch name.
-
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+###💡 致谢：
+GitHub及互联网其他资源[`特别感谢`]
